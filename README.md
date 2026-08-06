@@ -168,7 +168,89 @@ Production Deployment
 ```
 
 ---
+<p align="center">
+  <img src="Screenshot_2026-08-06_12_58_22.png" width="90%">
+</p>
 
+<p align="center">
+  <img src="Screenshot_2026-08-06_12_58_28.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_12_58_32.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_04_00.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_04_04.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_04_11.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_05_28.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_08_44.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_10_51.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_18_47.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_19_37.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_20_00.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_20_09.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_20_44.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_20_47.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_20_59.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_21_52.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_21_59.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_22_30.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_22_40.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot_2026-08-06_13_22_43.png" width="90%">
+</p>
 # Threat Intelligence Alignment
 
 Detection logic is informed by publicly available intelligence sources and industry-standard frameworks, including:
